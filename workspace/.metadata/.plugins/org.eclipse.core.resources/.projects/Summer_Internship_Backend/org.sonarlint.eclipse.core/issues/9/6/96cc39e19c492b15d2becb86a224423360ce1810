@@ -1,0 +1,66 @@
+
+z
+java:S3973:"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+q
+java:S2095)"HUse try-with-resources or close this "Connection" in a "finally" clause.(æŸàÑùÿÿÿÿRBLOCKERZBUG
+J
+java:S16439"Use a StringBuilder instead.(þÛ³¦ûÿÿÿÿRMINORZ
+CODE_SMELL
+E
+java:S1643;"Use a StringBuilder instead.(íï½íRMINORZ
+CODE_SMELL
+µ
+java:S2681<"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(­–„úÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿRMINORZ
+CODE_SMELL
+D
+java:S3626C"Remove this redundant jump.(ÉŠ©ƒRMINORZ
+CODE_SMELL
+~
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘RCRITICALZ
+CODE_SMELL
+H
+java:S16591"Declare "k" on a separate line.(«çóöRMINORZ
+CODE_SMELL
+[
+java:S4925("-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106?"9Replace this use of System.out or System.err by a logger.(¥Ø™êRMAJORZ
+CODE_SMELL
+a	java:S106B"9Replace this use of System.out or System.err by a logger.(ãûÏ©RMAJORZ
+CODE_SMELL
+f	java:S106L"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106W"9Replace this use of System.out or System.err by a logger.(ä˜ùÿÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106_"9Replace this use of System.out or System.err by a logger.(¨ç™ÜÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106g"9Replace this use of System.out or System.err by a logger.(Ž‚ìàþÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106o"9Replace this use of System.out or System.err by a logger.(¨ç™ÜÿÿÿÿÿRMAJORZ
+CODE_SMELL
+[
+java:S2093!"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿRCRITICALZ
+CODE_SMELL
+X
+java:S1481"*Remove this unused "dbCon" local variable.(–É¬‡øÿÿÿÿRMINORZ
+CODE_SMELL
+S
+java:S1481"*Remove this unused "query" local variable.(•ðÝÐRMINORZ
+CODE_SMELL
+R
+java:S1481")Remove this unused "stmt" local variable.(–ÔÀ¡RMINORZ
+CODE_SMELL
+U
+java:S1481"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1481"*Remove this unused "pstmt" local variable.(´Ÿ¿½þÿÿÿÿRMINORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(ìêýÅRMAJORZ
+CODE_SMELL
+d	java:S125*"<This block of commented-out lines of code should be removed.(Ìò…¤RMAJORZ
+CODE_SMELL

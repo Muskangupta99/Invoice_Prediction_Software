@@ -1,0 +1,74 @@
+
+k
+java:S20959"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÓßŸ¦RBLOCKERZBUG
+l
+java:S20953"HUse try-with-resources or close this "Connection" in a "finally" clause.(¯×æÊRBLOCKERZBUG
+p
+java:S20956"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿRBLOCKERZBUG
+y	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è·ä“RMINORZ
+CODE_SMELL
+n
+java:S1128"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿRMINORZ
+CODE_SMELL
+_
+java:S1135""2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿRINFOZ
+CODE_SMELL
+g
+java:S1854,">Remove this useless assignment to local variable "jsonObject".(†¶ÈŠRMAJORZ
+CODE_SMELL
+g
+java:S1854="9Remove this useless assignment to local variable "array".(´ßé•úÿÿÿÿRMAJORZ
+CODE_SMELL
+c
+java:S1854@":Remove this useless assignment to local variable "record".(°Õ¡¦RMAJORZ
+CODE_SMELL
+h
+java:S1161(":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿRMAJORZ
+CODE_SMELL
+_
+java:S1135)"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+‡
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(º£®òûÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S1064"9Replace this use of System.out or System.err by a logger.(â²‚úÿÿÿÿRMAJORZ
+CODE_SMELL
+E
+java:S1116H"Remove this empty statement.(ƒ¸—„RMINORZ
+CODE_SMELL
+E
+java:S1116M"Remove this empty statement.(¾øÂêRMINORZ
+CODE_SMELL
+f	java:S106y"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135‡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿRINFOZ
+CODE_SMELL
+‚
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿRMINORZVULNERABILITY
+d
+java:S1161—":Add the "@Override" annotation above this method signature(‹¨¯¿RMAJORZ
+CODE_SMELL
+‘
+java:S1989™"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿRMINORZVULNERABILITY
+`
+java:S1135˜"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1481@"+Remove this unused "record" local variable.(°Õ¡¦RMINORZ
+CODE_SMELL
+X
+java:S1481="*Remove this unused "array" local variable.(´ßé•úÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1481+"*Remove this unused "json1" local variable.(íÒÊŒúÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1481,"/Remove this unused "jsonObject" local variable.(†¶ÈŠRMINORZ
+CODE_SMELL
+i	java:S125{"<This block of commented-out lines of code should be removed.(ÅÈï¶ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+e	java:S125€"<This block of commented-out lines of code should be removed.(ŒÓš¦RMAJORZ
+CODE_SMELL
+j	java:S125„"<This block of commented-out lines of code should be removed.(ŒÙó¢ıÿÿÿÿRMAJORZ
+CODE_SMELL

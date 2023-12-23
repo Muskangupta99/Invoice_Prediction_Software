@@ -1,0 +1,3 @@
+ FirstName : Alvaro LastName : Morte Serial : 111 Alias : Professor Quote : Sometimes a truce is the most important part of a war
+ FirstName : Ursula LastName : Corbero Serial : 112 Alias : Tokyo Quote : When you hit rock bottom you still have a way to go until the abyss
+ FirstName : Alba LastName : Flores Serial : 113 Alias : Nairobi Quote : Let the matriarchy begin

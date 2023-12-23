@@ -1,0 +1,69 @@
+
+™
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷Š¿¯RMINORZ
+CODE_SMELL
+—
+java:S1319B"oThe type of the "rows" object should be an interface such as "List" rather than the implementation "ArrayList".(óÄÙtRMINORZ
+CODE_SMELL
+s
+java:S2095P"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é€€ÂRBLOCKERZBUG
+u	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹Ì¾±RMINORZ
+CODE_SMELL
+E
+java:S1643"Use a StringBuilder instead.(©‹ÙõRMINORZ
+CODE_SMELL
+E
+java:S1643"Use a StringBuilder instead.(©‹ÙõRMINORZ
+CODE_SMELL
+k
+java:S2583d"DChange this condition so that it does not always evaluate to "false"(œ‹ì†üÿÿÿÿRMAJORZBUG
+‚
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(„‰¤®úÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1128	"/Remove this unused import 'java.sql.Statement'.(ÏÖÔøRMINORZ
+CODE_SMELL
+‡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ‹½¨ýÿÿÿÿRMINORZ
+CODE_SMELL
+a	java:S106!"9Replace this use of System.out or System.err by a logger.(ÅÑž÷RMAJORZ
+CODE_SMELL
+f	java:S106("9Replace this use of System.out or System.err by a logger.(õŒ±¼ùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106+"9Replace this use of System.out or System.err by a logger.(²àéÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S1064"9Replace this use of System.out or System.err by a logger.(Ü›ÓÀRMAJORZ
+CODE_SMELL
+a	java:S106<"9Replace this use of System.out or System.err by a logger.(¾Ö›ÂRMAJORZ
+CODE_SMELL
+[
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿRCRITICALZ
+CODE_SMELL
+[
+java:S4925M"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106W"9Replace this use of System.out or System.err by a logger.(ÌØîƒùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106Z"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106`"9Replace this use of System.out or System.err by a logger.(ÆÂ‰ŽRMAJORZ
+CODE_SMELL
+`	java:S106h"9Replace this use of System.out or System.err by a logger.(¾åQRMAJORZ
+CODE_SMELL
+a	java:S106o"9Replace this use of System.out or System.err by a logger.(‘Ø’êRMAJORZ
+CODE_SMELL
+f	java:S106v"9Replace this use of System.out or System.err by a logger.(æò°éøÿÿÿÿRMAJORZ
+CODE_SMELL
+f
+java:S1197{"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+a	java:S106}"9Replace this use of System.out or System.err by a logger.(ø«ÃÕRMAJORZ
+CODE_SMELL
+a	java:S106~"9Replace this use of System.out or System.err by a logger.(‹’Ö’RMAJORZ
+CODE_SMELL
+[
+java:S1481G"-Remove this unused "userName" local variable.(¤€ÛÏûÿÿÿÿRMINORZ
+CODE_SMELL
+[
+java:S1481H"-Remove this unused "password" local variable.(Á«ïýÿÿÿÿRMINORZ
+CODE_SMELL

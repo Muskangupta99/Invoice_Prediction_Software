@@ -1,0 +1,73 @@
+
+j
+java:S1854+"9Remove this useless assignment to local variable "array".(´ßé•úÿÿÿÿHì$RMAJORZ
+CODE_SMELL
+W
+java:S1481."+Remove this unused "record" local variable.(°Õ¡¦H÷$RMINORZ
+CODE_SMELL
+H
+java:S11164"Remove this empty statement.(ƒ¸—„Hğ$RMINORZ
+CODE_SMELL
+o
+java:S2095""HUse try-with-resources or close this "Connection" in a "finally" clause.(¯×æÊHã$RBLOCKERZBUG
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éø×§ûÿÿÿÿHæ$RMINORZ
+CODE_SMELL
+b
+java:S1135q"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHó$RINFOZ
+CODE_SMELL
+[
+java:S1481"/Remove this unused "jsonObject" local variable.(†¶ÈŠHú$RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHõ$RINFOZ
+CODE_SMELL
+d
+java:S1128"8Remove this unused import 'com.google.gson.JsonElement'.(ğ†˜³Hé$RMINORZ
+CODE_SMELL
+i
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿHê$RMINORZ
+CODE_SMELL
+l	java:S125n"<This block of commented-out lines of code should be removed.(ŒÙó¢ıÿÿÿÿHı$RMAJORZ
+CODE_SMELL
+[
+java:S1481"*Remove this unused "json1" local variable.(íÒÊŒúÿÿÿÿHù$RMINORZ
+CODE_SMELL
+j	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(§¿¨üÿÿÿÿHö$RMAJORZ
+CODE_SMELL
+l	java:S125e"<This block of commented-out lines of code should be removed.(ÅÈï¶ÿÿÿÿÿHû$RMAJORZ
+CODE_SMELL
+[
+java:S1481+"*Remove this unused "array" local variable.(´ßé•úÿÿÿÿHø$RMINORZ
+CODE_SMELL
+V
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½ÊHè$RMINORZ
+CODE_SMELL
+g	java:S125j"<This block of commented-out lines of code should be removed.(ŒÓš¦Hü$RMAJORZ
+CODE_SMELL
+s
+java:S2095%"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿHå$RBLOCKERZBUG
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(â²‚úÿÿÿÿHï$RMAJORZ
+CODE_SMELL
+s
+java:S2095'"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(…÷ä‹ıÿÿÿÿHä$RBLOCKERZBUG
+\
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛHç$RMINORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º£®òûÿÿÿÿHî$RMINORZ
+CODE_SMELL
+H
+java:S11169"Remove this empty statement.(¾øÂêHñ$RMINORZ
+CODE_SMELL
+j
+java:S1854">Remove this useless assignment to local variable "jsonObject".(†¶ÈŠHë$RMAJORZ
+CODE_SMELL
+i	java:S106c"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿHò$RMAJORZ
+CODE_SMELL
+g	java:S125z"<This block of commented-out lines of code should be removed.(½‘Ñ³Hş$RMAJORZ
+CODE_SMELL
+f
+java:S1854.":Remove this useless assignment to local variable "record".(°Õ¡¦Hí$RMAJORZ
+CODE_SMELL
+j	java:S106‚"9Replace this use of System.out or System.err by a logger.(ëâƒƒüÿÿÿÿHô$RMAJORZ
+CODE_SMELL

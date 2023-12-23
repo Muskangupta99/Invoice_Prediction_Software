@@ -1,0 +1,131 @@
+
+z
+java:S3973Q"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+y
+java:S3973ì"GUse indentation to denote the code conditionally executed by this "if".(Œ°ŠãùÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973î"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+y
+java:S3973ñ"GUse indentation to denote the code conditionally executed by this "if".(ç‚üèüÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973ó"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+t
+java:S3973ö"GUse indentation to denote the code conditionally executed by this "if".( Éğ¥RCRITICALZ
+CODE_SMELL
+t
+java:S3973ú"GUse indentation to denote the code conditionally executed by this "if".(£ÑûRCRITICALZ
+CODE_SMELL
+t
+java:S3973ş"GUse indentation to denote the code conditionally executed by this "if".(«ïŞ¿RCRITICALZ
+CODE_SMELL
+t
+java:S3973„"GUse indentation to denote the code conditionally executed by this "if".(€€ÿRCRITICALZ
+CODE_SMELL
+t
+java:S3973Š"GUse indentation to denote the code conditionally executed by this "if".(Òı±ÚRCRITICALZ
+CODE_SMELL
+v
+java:S2095¬"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ç¸Î¿şÿÿÿÿRBLOCKERZBUG
+d
+java:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿRMAJORZ
+CODE_SMELL
+d
+java:S1141Ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S2589"7Remove this expression which always evaluates to "true"(¶™ìúRMAJORZ
+CODE_SMELL
+`
+java:S25899"7Remove this expression which always evaluates to "true"(¶™ìúRMAJORZ
+CODE_SMELL
+`
+java:S2589M"7Remove this expression which always evaluates to "true"(¶™ìúRMAJORZ
+CODE_SMELL
+`
+java:S2589%"7Remove this expression which always evaluates to "true"(¶™ìúRMAJORZ
+CODE_SMELL
+`
+java:S2589/"7Remove this expression which always evaluates to "true"(¶™ìúRMAJORZ
+CODE_SMELL
+`
+java:S2589C"7Remove this expression which always evaluates to "true"(¶™ìúRMAJORZ
+CODE_SMELL
+Z
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼RMINORZ
+CODE_SMELL
+‚
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œƒì¸RMINORZ
+CODE_SMELL
+„
+java:S3776V"SRefactor this method to reduce its Cognitive Complexity from 210 to the 15 allowed.(å…ôèşÿÿÿÿRCRITICALZ
+CODE_SMELL
+f	java:S106e"9Replace this use of System.out or System.err by a logger.(ÚîÙëüÿÿÿÿRMAJORZ
+CODE_SMELL
+F
+java:S1116Ğ"Remove this empty statement.(æô¯øRMINORZ
+CODE_SMELL
+`
+java:S1135§"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+ƒ
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÚµRMINORZ
+CODE_SMELL
+g	java:S106¸"9Replace this use of System.out or System.err by a logger.(åâÌªûÿÿÿÿRMAJORZ
+CODE_SMELL
+b	java:S106Ã"9Replace this use of System.out or System.err by a logger.(‚ÉüRMAJORZ
+CODE_SMELL
+b	java:S106Ì"9Replace this use of System.out or System.err by a logger.(‚ÉüRMAJORZ
+CODE_SMELL
+\
+java:S2093ª"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿRCRITICALZ
+CODE_SMELL
+€
+java:S3776Ò"SRefactor this method to reduce its Cognitive Complexity from 149 to the 15 allowed.(ŞÌ¸×RCRITICALZ
+CODE_SMELL
+W
+java:S1905İ"-Remove this unnecessary cast to "Connection".(æäÀRMINORZ
+CODE_SMELL
+^
+java:S1905Ş"4Remove this unnecessary cast to "PreparedStatement".(¥ıÍÒRMINORZ
+CODE_SMELL
+g	java:S106Û"9Replace this use of System.out or System.err by a logger.(ÌÃÙæıÿÿÿÿRMAJORZ
+CODE_SMELL
+g	java:S106İ"9Replace this use of System.out or System.err by a logger.(ß×È€şÿÿÿÿRMAJORZ
+CODE_SMELL
+b	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ÿ‡ùåRMAJORZ
+CODE_SMELL
+i	java:S125y"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125¡"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+e	java:S125½"<This block of commented-out lines of code should be removed.(Á§ü¢RMAJORZ
+CODE_SMELL
+j	java:S125É"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125ï"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125–"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125¼"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125ã"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125Œ"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125³"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125Ş"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125†"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125¬"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125Ó"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL
+j	java:S125ü"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿRMAJORZ
+CODE_SMELL

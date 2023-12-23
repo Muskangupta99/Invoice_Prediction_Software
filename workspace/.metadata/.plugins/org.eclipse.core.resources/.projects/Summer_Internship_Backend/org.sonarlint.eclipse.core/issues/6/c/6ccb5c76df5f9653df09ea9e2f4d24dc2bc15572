@@ -1,0 +1,23 @@
+
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü«ÑşÿÿÿÿRMINORZ
+CODE_SMELL
+f
+java:S1197	"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+Q
+java:S1659"#Declare "value" on a separate line.(ğ™”‹ÿÿÿÿÿRMINORZ
+CODE_SMELL
+‚
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(µé¿ÃRMINORZ
+CODE_SMELL
+‡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á¥÷ĞşÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(•ã¼„øÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(È½Â«RMAJORZ
+CODE_SMELL
+V
+java:S1481"(Remove this unused "num" local variable.(“®´ÜúÿÿÿÿRMINORZ
+CODE_SMELL

@@ -1,0 +1,37 @@
+
+s
+java:S3973&"GUse indentation to denote the code conditionally executed by this "if".(Âç…ËRCRITICALZ
+CODE_SMELL
+u
+java:S3973/"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØRCRITICALZ
+CODE_SMELL
+q
+java:S2095!"HUse try-with-resources or close this "Connection" in a "finally" clause.(æŸàÑùÿÿÿÿRBLOCKERZBUG
+s	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(˜ó³ûÿÿÿÿRMAJORZ
+CODE_SMELL
+~	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é±®üÿÿÿÿRMINORZ
+CODE_SMELL
+\
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²ÅRMINORZ
+CODE_SMELL
+]
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿRMINORZ
+CODE_SMELL
+l
+java:S1128">Remove this unused import 'com.higradius.CustomerInvoicePojo'.(Ë¾øşÿÿÿÿRMINORZ
+CODE_SMELL
+f
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+[
+java:S4925 "-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106+"9Replace this use of System.out or System.err by a logger.(“ş—ÜúÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1060"9Replace this use of System.out or System.err by a logger.(ˆÃŞºúÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S1064"9Replace this use of System.out or System.err by a logger.(È½Â«RMAJORZ
+CODE_SMELL
+[
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿRCRITICALZ
+CODE_SMELL

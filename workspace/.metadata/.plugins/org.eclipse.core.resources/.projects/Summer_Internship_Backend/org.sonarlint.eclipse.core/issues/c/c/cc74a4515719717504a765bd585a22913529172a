@@ -1,0 +1,151 @@
+
+{
+java:S3973‚"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973ˆ"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973“"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973¦"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973¯"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973¸"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+y
+java:S3973İ"GUse indentation to denote the code conditionally executed by this "if".(Œ°ŠãùÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973ß"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+y
+java:S3973â"GUse indentation to denote the code conditionally executed by this "if".(ç‚üèüÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S3973ä"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿRCRITICALZ
+CODE_SMELL
+t
+java:S3973ç"GUse indentation to denote the code conditionally executed by this "if".( Éğ¥RCRITICALZ
+CODE_SMELL
+t
+java:S3973ë"GUse indentation to denote the code conditionally executed by this "if".(£ÑûRCRITICALZ
+CODE_SMELL
+t
+java:S3973ï"GUse indentation to denote the code conditionally executed by this "if".(«ïŞ¿RCRITICALZ
+CODE_SMELL
+t
+java:S3973õ"GUse indentation to denote the code conditionally executed by this "if".(€€ÿRCRITICALZ
+CODE_SMELL
+t
+java:S3973û"GUse indentation to denote the code conditionally executed by this "if".(Òı±ÚRCRITICALZ
+CODE_SMELL
+y
+java:S1192D"HDefine a constant instead of duplicating this literal "\\R\\N" 17 times.(Ì„éêüÿÿÿÿRCRITICALZ
+CODE_SMELL
+d
+java:S1141™"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿRMAJORZ
+CODE_SMELL
+d
+java:S1141ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿRMAJORZ
+CODE_SMELL
+a
+java:S2589â"7Remove this expression which always evaluates to "true"(ş’ÉÉRMAJORZ
+CODE_SMELL
+a
+java:S2589›"7Remove this expression which always evaluates to "true"(ş’ÉÉRMAJORZ
+CODE_SMELL
+
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 216 to the 15 allowed.(Çµí‘RCRITICALZ
+CODE_SMELL
+‡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®…ˆºüÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106:"9Replace this use of System.out or System.err by a logger.(ÚîÙëüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106F"9Replace this use of System.out or System.err by a logger.(«ÈıÒRMAJORZ
+CODE_SMELL
+f	java:S106K"9Replace this use of System.out or System.err by a logger.(ÃŠºşÿÿÿÿRMAJORZ
+CODE_SMELL
+F
+java:S1116"Remove this empty statement.(æô¯øRMINORZ
+CODE_SMELL
+b	java:S106–"9Replace this use of System.out or System.err by a logger.(Áß‡ÜRMAJORZ
+CODE_SMELL
+Q
+java:S1905›"'Remove this unnecessary cast to "Date".(ƒôÜõRMINORZ
+CODE_SMELL
+R	java:S108 ")Either remove or fill this block of code.(”ı¾RMAJORZ
+CODE_SMELL
+b	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ŞºìÂRMAJORZ
+CODE_SMELL
+\
+java:S4925Ê"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+b	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Üşò±RMAJORZ
+CODE_SMELL
+y
+java:S2159õ"VRemove this call to "equals"; comparisons between unrelated types always return false.(¢îãÛRMAJORZBUG
+S
+java:S1125õ")Remove the literal "false" boolean value.(¢îãÛRMINORZ
+CODE_SMELL
+g	java:S106ı"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+g	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ä˜ùÿÿÿÿÿÿRMAJORZ
+CODE_SMELL
+g	java:S106"9Replace this use of System.out or System.err by a logger.(¨ç™ÜÿÿÿÿÿRMAJORZ
+CODE_SMELL
+[
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿRCRITICALZ
+CODE_SMELL
+O
+java:S2129§" Remove this "String" constructor(ğÓ¿¨úÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135²"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135Â"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135Ì"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135×"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿRINFOZ
+CODE_SMELL
+V
+java:S1905Ş"'Remove this unnecessary cast to "Date".(‡ìĞáúÿÿÿÿRMINORZ
+CODE_SMELL
+R
+java:S1481")Remove this unused "stmt" local variable.(–ÔÀ¡RMINORZ
+CODE_SMELL
+U
+java:S1481"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿRMINORZ
+CODE_SMELL
+d	java:S125%"<This block of commented-out lines of code should be removed.(÷ÀÀËRMAJORZ
+CODE_SMELL
+d	java:S125)"<This block of commented-out lines of code should be removed.(·¿ æRMAJORZ
+CODE_SMELL
+d	java:S1251"<This block of commented-out lines of code should be removed.(­œ¦ÇRMAJORZ
+CODE_SMELL
+i	java:S1254"<This block of commented-out lines of code should be removed.(‡¦×çûÿÿÿÿRMAJORZ
+CODE_SMELL
+d	java:S125Ç"<This block of commented-out lines of code should be removed.(˜Ì²RMAJORZ
+CODE_SMELL
+e	java:S125Ä"<This block of commented-out lines of code should be removed.(¼ÂıRMAJORZ
+CODE_SMELL
+e	java:S125°"<This block of commented-out lines of code should be removed.(£â¡íRMAJORZ
+CODE_SMELL
+e	java:S125¾"<This block of commented-out lines of code should be removed.(£â¡íRMAJORZ
+CODE_SMELL
+e	java:S125Ê"<This block of commented-out lines of code should be removed.(£â¡íRMAJORZ
+CODE_SMELL
+e	java:S125Õ"<This block of commented-out lines of code should be removed.(£â¡íRMAJORZ
+CODE_SMELL

@@ -1,0 +1,39 @@
+
+
+java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ê©í€ûÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Â¾åRMINORZ
+CODE_SMELL
+y	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©õ³ÕRMINORZ
+CODE_SMELL
+~	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œöĞÒşÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÄ”áRMINORZ
+CODE_SMELL
+‚	java:S116"URename this field "First_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šîœÉşÿÿÿÿRMINORZ
+CODE_SMELL
+|	java:S116"TRename this field "Last_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åü¿±RMINORZ
+CODE_SMELL
+…	java:S116"XRename this field "serial_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Æö›üÿÿÿÿRMINORZ
+CODE_SMELL
+€	java:S116	"XRename this field "also_known_as" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼…åŸRMINORZ
+CODE_SMELL
+‚
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼RMINORZ
+CODE_SMELL
+{	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½À–üÿÿÿÿRMINORZ
+CODE_SMELL
+v	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Â¾åRMINORZ
+CODE_SMELL
+{	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûµ úÿÿÿÿRMINORZ
+CODE_SMELL
+v	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©õ³ÕRMINORZ
+CODE_SMELL
+v	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç·»RMINORZ
+CODE_SMELL
+{	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œöĞÒşÿÿÿÿRMINORZ
+CODE_SMELL
+{	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¯Ï«şÿÿÿÿRMINORZ
+CODE_SMELL
+v	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÄ”áRMINORZ
+CODE_SMELL
