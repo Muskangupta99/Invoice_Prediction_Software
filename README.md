@@ -1,4 +1,4 @@
-# Project Readme - AI-Based Predictive Model for Invoice Delay
+# Project Readme - AI-Based Predictive Software for Invoice Delay
 
 ## Overview
 
