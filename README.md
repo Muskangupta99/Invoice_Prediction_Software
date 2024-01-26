@@ -1,12 +1,12 @@
-# Project Readme - AI-Based Predictive Model for Invoice Delay
+# Project Readme - AI-Based Predictive Model for Invoice Payments
 
 ## Overview
 
-This collaborative project, in partnership with HighRadius Corporation Pvt. Ltd., focuses on developing an AI-based predictive model for forecasting invoice delays. Leveraging machine learning techniques, data analysis, and predictive modeling, the project integrates a comprehensive tech stack, including a database for data storage, JDBC for database connectivity, POJO (Plain Old Java Objects) for structured data representation, and ReactJS for implementing Natural Language Processing (NLP) capabilities.
+This collaborative project, in partnership with HighRadius Corporation Pvt. Ltd., focuses on developing an AI-based predictive model for forecasting invoice payment amounts. Leveraging machine learning techniques, data analysis, and predictive modeling, the project integrates a comprehensive tech stack, including a database for data storage, JDBC for database connectivity, POJO (Plain Old Java Objects) for structured data representation, and ReactJS for implementing Natural Language Processing (NLP) capabilities.
 
 ## Project Files
 
-- **Invoice_Delay_Predictor.war:** This is the deployable .war (Web Application Archive) file containing the AI-based predictive model for invoice delay. The .war file encapsulates the project code, libraries, and configuration necessary for deployment in a web server environment.
+- **Invoice_Delay_Predictor.war:** This is the deployable .war (Web Application Archive) file containing the AI-based predictive model for invoice payment amount. The .war file encapsulates the project code, libraries, and configuration necessary for deployment in a web server environment.
 
 ## Features
 
