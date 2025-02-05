@@ -2,6 +2,8 @@
 
 ## Overview
 
+Please Note : This project has been put up with HighRadius's permission. This project is made with dummy data and is more of a research/experiment use case initiated by HighRadius completed as part of the training process for their Machine Learning internship. 
+
 This collaborative project, in partnership with HighRadius Corporation Pvt. Ltd., focuses on developing an AI-based predictive model for forecasting invoice payment amounts. Leveraging machine learning techniques, data analysis, and predictive modeling, the project integrates a comprehensive tech stack, including a database for data storage, JDBC for database connectivity, POJO (Plain Old Java Objects) for structured data representation, and ReactJS for implementing Natural Language Processing (NLP) capabilities.
 
 ## Project Files
